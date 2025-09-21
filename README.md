@@ -33,7 +33,7 @@ The notebook demonstrates preprocessing, feature engineering, model training, ev
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Reyhane-Ha/diamond-price-prediction.git
 2. Install dependencies:
 - pip install -r requirements.txt
 3. Open diamonds.ipynb in Jupyter Notebook or VS code and run the cells sequentially.
